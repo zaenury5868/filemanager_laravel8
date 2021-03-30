@@ -6,3 +6,4 @@
 -  `gunakan laragon dan pindahkan di folder www atau xampp di htdocs`
 -  `ganti base_url d config.php sesuai nama folder project`
 -  `done`
+
